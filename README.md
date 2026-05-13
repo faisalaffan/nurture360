@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/02_LOGO_SLOGAN.png" alt="Nurture360 Logo" width="320" />
+  <img src="assets/02_LOGO_SLOGAN.png" alt="Nurture360 Logo" width="600" />
 </p>
 
 <p align="center">
-  <img src="assets/05_BANNER.png" alt="Nurture360 Banner" width="100%" />
+  <img src="assets/04_ICON.png" alt="Nurture360 Icon" width="96" />
 </p>
 
 ---
